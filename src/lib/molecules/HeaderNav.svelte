@@ -64,6 +64,8 @@
         width: 100%;
         z-index: 3;
         padding: 0 1em;
+        min-width: 5rem;
+
     }
 
     nav ul {
@@ -78,9 +80,10 @@
     }
 
     nav li{
-        padding: 2em 0;
+        padding: 5em 0;
         display: flex;
         justify-content: center;
+
     }
 
     nav li:nth-last-child(1){

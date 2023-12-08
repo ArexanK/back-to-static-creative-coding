@@ -4,16 +4,16 @@
 
 
     <a class="nav-link" {href}>
-        <img class="logo" src="/static/assets/IMG_0876.PNG" alt="The INK logo" />
+        <img class="logo" src="/assets/ink-bubbel.png" alt="The INK logo" />
     </a>
 
 
 <style>
 
     .logo{
-        height: 2em;
-        width:  2em;
-        padding: .4em;
+        height: 10em;
+        width:  15em;
+        padding: .2em;
     }
 
     .logo:hover{
