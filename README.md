@@ -3,8 +3,9 @@
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Creating a project
+<img width="1297" alt="Screenshot 2023-12-08 at 11 51 47" src="https://github.com/ArexanK/back-to-static-creative-coding/assets/94745953/8ab3bbef-e3a2-4ae6-9cd4-8203aa38efe6">
 
-If you're seeing this, you've probably already done this step. Congrats!
+
 
 ```bash
 # create a new project in the current directory
