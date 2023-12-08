@@ -3,35 +3,38 @@
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Creating a project
+<img width="1297" alt="Screenshot 2023-12-08 at 11 51 47" src="https://github.com/ArexanK/back-to-static-creative-coding/assets/94745953/8ab3bbef-e3a2-4ae6-9cd4-8203aa38efe6">
 
-If you're seeing this, you've probably already done this step. Congrats!
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Inhoudsopgave
+- Beschrijving📃
+- Gebruik👥
+- Kenmerken✅
+- Installatie⚙️
+- Bronnen🌐
+- Licentie
+- Gebruik 👥
 
-## Developing
+## Kenmerken ✅
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## GEBRUIKTE TECHNIEKEN 🛠️:
 
-```bash
-npm run dev
+- Svelte
+- Sveltekit
+- JS
+- CSS
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## Installatie ⚙️
 
-## Building
+- Clone of download deze repository naar de gewenste folder.
+- Open de root directory van dit project en open het project in een code editor naar keuze.
+- Gebruik npm install om de benodigde packages te downloaden voor dit project.
+- Voor het gebruik van Hygraph om data in te laden gebruik dan het commando npm graphql-request om requesten te fetchen.
+- Start een server met npm run dev.
+  
+## Bronnen 🌐
 
-To create a production version of your app:
-
-```bash
-npm run build
-```
 
 You can preview the production build with `npm run preview`.
 
