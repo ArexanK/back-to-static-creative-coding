@@ -8,33 +8,32 @@ Everything you need to build a Svelte project, powered by [`create-svelte`](http
 
 
 ## Inhoudsopgave
-
-Beschrijving📃
-Gebruik👥
-Kenmerken✅
-Installatie⚙️
-Bronnen🌐
-Licentie
-Gebruik 👥
+- Beschrijving📃
+- Gebruik👥
+- Kenmerken✅
+- Installatie⚙️
+- Bronnen🌐
+- Licentie
+- Gebruik 👥
 
 ## Kenmerken ✅
 
 ## GEBRUIKTE TECHNIEKEN 🛠️:
 
-Svelte
-Sveltekit
-Hygragh
-JS
-CSS
+- Svelte
+- Sveltekit
+- JS
+- CSS
 
 ## Installatie ⚙️
 
-Clone of download deze repository naar de gewenste folder.
-Open de root directory van dit project en open het project in een code editor naar keuze.
-Gebruik npm install om de benodigde packages te downloaden voor dit project.
-Voor het gebruik van Hygraph om data in te laden gebruik dan het commando npm graphql-request om requesten te fetchen.
-Start een server met npm run dev.
-Bronnen 🌐
+- Clone of download deze repository naar de gewenste folder.
+- Open de root directory van dit project en open het project in een code editor naar keuze.
+- Gebruik npm install om de benodigde packages te downloaden voor dit project.
+- Voor het gebruik van Hygraph om data in te laden gebruik dan het commando npm graphql-request om requesten te fetchen.
+- Start een server met npm run dev.
+  
+## Bronnen 🌐
 
 
 You can preview the production build with `npm run preview`.
