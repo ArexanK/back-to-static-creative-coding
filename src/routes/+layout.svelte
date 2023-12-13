@@ -3,9 +3,14 @@
 
     // import '../lib/styles/fonts';
     import { Header } from "../lib/index";
+    import App from './App.svelte'
 </script>
 
 <Header />
+
+<div>
+	<App />
+</div>
 
 
 
@@ -17,6 +22,14 @@
 
 
 <style>
+
+
+
+	div {
+		position: absolute;
+		height: 100%;
+		width: 100%;
+	}
 
     :global(*){
         box-sizing: border-box;
