@@ -8,6 +8,7 @@
 
 <Header />
 
+
 <div>
 	<App />
 </div>
@@ -25,11 +26,22 @@
 
 
 
-	div {
+	/* div {
 		position: absolute;
 		height: 100%;
 		width: 100%;
-	}
+      
+	} */
+    div{
+        position: absolute;
+		height: 100%;
+		width: 100%;
+        inset: 0;
+        background: radial-gradient(#051d1d (220 14% 20%) #051d1d (220 20% 10%))
+
+        
+
+    }
 
     :global(*){
         box-sizing: border-box;

@@ -55,6 +55,7 @@
 
 <style>
 
+
     /* header */
 
     nav {
@@ -192,6 +193,8 @@
     width: 100%;
     display: flex;
     justify-content: center;
+
+    
 }
 
 .bubbels {
